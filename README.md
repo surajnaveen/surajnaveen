@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Suraj Naveen</h1>
-<h3 align="center">An undergraduate | frontend developer |</h3>
+<h3 align="center">An undergraduate | software developer |</h3>
 
-- 🌱 I’m currently learning **NodeJS,React,Boostrap**
+- 🌱 I’m currently learning **NodeJS,React,Bootstrap**
 
 - 📫 How to reach me **suraj0nb@gmail.com**
 
