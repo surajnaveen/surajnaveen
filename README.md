@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Suraj Naveen</h1>
-<h3 align="center">An undergraduate | software developer |</h3>
+<h3 align="center">An undergraduate | software developer | Web Developer & Designer</h3>
 
 - 🌱 I’m currently learning **NodeJS,React,Bootstrap**
 
